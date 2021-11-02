@@ -5,6 +5,3 @@ marks untouched.
 - Examples :
 pigIt('Pig latin is cool'); // igPay atinlay siay oolcay
 pigIt('Hello world !');     // elloHay orldway !
-
-
-VOIR DES MODIFICATIONS ICI AND NOW !!!
