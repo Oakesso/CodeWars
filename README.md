@@ -1,4 +1,3 @@
 # CodeWars
 - My CodeWars Solutions :  
-- My profile here below :  
-- https://www.codewars.com/users/Oakesso
+- My profile here below :  https://www.codewars.com/users/Oakesso
