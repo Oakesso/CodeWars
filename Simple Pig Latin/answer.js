@@ -15,7 +15,7 @@ function split(str) {
 
 function pigIt(str) {
     let val = split(str);
-    newVal = [];
+    let newVal = [];
     for (let i = 0; i < val.length; i++) {
         newWord = [];
         for (let j = 0; j < val[i].length; j++) {
