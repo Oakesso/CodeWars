@@ -15,6 +15,8 @@
 
 function scramble(str1, str2) {
     for (let i = 0; i < str1.length; i++) {
-
+        console.log(str2.length);
     }
 }
+
+scramble(str1, str2);
